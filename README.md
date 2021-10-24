@@ -2,7 +2,7 @@
 
 ![Logo](/readme_images/logo_sm.jpg)
 
-A simple LED driver module for the 'daytron-like' RGB plugin in GRBLHAL:
+A simple LED driver module for the 'datron-like' RGB plugin in GRBLHAL:
 
 https://github.com/5ocworkshop/grblhal-rgb-plugin
 
