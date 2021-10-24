@@ -1,0 +1,50 @@
+Altium Designer Pick and Place Locations
+C:\Repo\rgb_plugin_pcba\Project Outputs for RGB_Plugin_Board\RGB_Plugin_Board_UPLOAD_GERBERS_A1\Pick Place\RGB_Plugin_Board_CAM_OUTPUT_A1.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       23-10-21
+Time:       17:26
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment         Layer    Footprint               Center-X(mil) Center-Y(mil) Rotation Description                                                                       
+D2         ESD5Z24         TopLayer ONSC-SOD-523-2-502-01_V 569.016       -510.000      180      "24V 26V Unidirectional 35V 1A (8/20us) SOD-523 TVS ROHS"                         
+D1         ESD5Z24         TopLayer ONSC-SOD-523-2-502-01_V 569.016       -430.000      0        "24V 26V Unidirectional 35V 1A (8/20us) SOD-523 TVS ROHS"                         
+R2_DRB     "10KO ±1%"      TopLayer 0402_R                  2975.000      -415.000      180      "Chip resistor"                                                                   
+P2         C9135           TopLayer 61200821621             2135.000      -800.000      0        "Male Box Header WR-BHD, THT, Vertical, pitch 2.54 mm, 8 pins"                    
+P1         C9135           TopLayer 61200821621             2135.000      -190.000      0        "Male Box Header WR-BHD, THT, Vertical, pitch 2.54 mm, 8 pins"                    
+C15        100uF           TopLayer WCAP-ASLI_D6.3H7.7      1555.000      -190.000      270      "WCAP-ASLI Aluminum Electrolytic Capacitor, V-Chip, SMT, D6.3xH7.7mm, 100uF, 25V" 
+U2_DRA     EL357N(B)(TA)-G TopLayer SOP-4_P2.54             2755.000      -840.000      0        "Optocoupler SOP-4, EL357N(B)(TA)-G, Everlight Electronics"                       
+U2_DRB     EL357N(B)(TA)-G TopLayer SOP-4_P2.54             2755.000      -515.000      0        "Optocoupler SOP-4, EL357N(B)(TA)-G, Everlight Electronics"                       
+U2_DRC     EL357N(B)(TA)-G TopLayer SOP-4_P2.54             2755.000      -185.000      0        "Optocoupler SOP-4, EL357N(B)(TA)-G, Everlight Electronics"                       
+R2_DRA     "10KO ±1%"      TopLayer 0402_R                  2975.000      -740.000      180      "Chip resistor"                                                                   
+R2_DRC     "10KO ±1%"      TopLayer 0402_R                  2975.000      -85.000       180      "Chip resistor"                                                                   
+R1_DRA     "510O ±1%"      TopLayer 0402_R                  2638.268      -735.000      0        "Chip resistor"                                                                   
+R1_DRB     "510O ±1%"      TopLayer 0402_R                  2638.268      -410.000      0        "Chip resistor"                                                                   
+R1_DRC     "510O ±1%"      TopLayer 0402_R                  2638.268      -80.000       0        "Chip resistor"                                                                   
+Q1_DRA     "AO3400A N"     TopLayer SOT-23-3L               3025.000      -847.598      180      MOS(????)                                                                         
+Q1_DRB     "AO3400A N"     TopLayer SOT-23-3L               3025.000      -522.599      180      MOS(????)                                                                         
+Q1_DRC     "AO3400A N"     TopLayer SOT-23-3L               3025.000      -192.599      180      MOS(????)                                                                         
+J1         1842340000      TopLayer SL_SMT_3_5_180G_04      3445.000      -463.307      270      "OMNIMATE Signal - series BL/SL 3.50"                                             
+R11        "750O ±1%"      TopLayer 0603_R                  1205.000      -910.000      180      "Chip resistor"                                                                   
+R10        "51KO ±1%"      TopLayer 0805_R                  345.000       -875.000      90       "Chip resistor"                                                                   
+P5         691321100002    TopLayer 691321100002            151.495       -480.000      90       "Serie 3211 - 3.50mm Vertical PCB Header WR-TBL, 2 pin"                           
+D4         SS54            TopLayer SMA(DO-214AC)_S1        920.000       -865.000      0        ???                                                                               
+U1         TPS54331DR      TopLayer SOIC-8_150mil           520.000       -770.000      180      DC-DC??                                                                           
+R9         "10KO ±1%"      TopLayer 0603_R                  1205.000      -835.000      0        "Chip resistor"                                                                   
+L1         "15uH DNI"      TopLayer IND_BOURNS_SDR1307      1090.000      -465.000      90       SDR1307-150ML                                                                     
+C12        8.2nF           TopLayer 0603_C                  350.000       -695.000      90       "Chip capacitors"                                                                 
+C11        10pF            TopLayer 0402_C                  255.000       -840.000      0        "Chip capacitors"                                                                 
+C10        1nF             TopLayer 0805_C                  225.000       -910.000      0        "Chip capacitors"                                                                 
+C9         10nF            TopLayer 0402_C                  570.000       -570.000      180      "Chip capacitors"                                                                 
+C8         4.7uF           TopLayer 1206_C                  585.000       -310.000      180      "Chip capacitors"                                                                 
+C7         10uF            TopLayer 1206_C                  585.000       -205.000      180      "Chip capacitors"                                                                 
+C6         10uF            TopLayer 1206_C                  585.000       -100.000      180      "Chip capacitors"                                                                 
+C5         22uF            TopLayer 0805_C                  886.608       -89.950       270      "Chip capacitors"                                                                 
+C4         22uF            TopLayer 0805_C                  1026.608      -89.950       270      "Chip capacitors"                                                                 
+C3         22uF            TopLayer 0805_C                  1166.608      -89.950       270      "Chip capacitors"                                                                 
+C2         22uF            TopLayer 0805_C                  1306.608      -89.950       270      "Chip capacitors"                                                                 
+C1         100nF           TopLayer 1206_C                  700.000       -710.000      270      "Chip capacitors"                                                                 

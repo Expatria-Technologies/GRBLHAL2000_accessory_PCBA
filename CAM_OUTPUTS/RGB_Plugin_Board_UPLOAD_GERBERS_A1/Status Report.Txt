@@ -1,0 +1,10 @@
+Output: JLPCB BOM
+Type  : BOM
+From  : Variant [FULL_ASSEMBLY] of Project [RGB_Plugin_Board.PrjPCB]
+   Generated File[RGB_Plugin_Board_CAM_OUTPUT_A1.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 5:26:21 PM On 2021-10-23
