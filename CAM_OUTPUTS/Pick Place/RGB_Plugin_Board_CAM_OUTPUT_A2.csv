@@ -1,0 +1,33 @@
+Altium Designer Pick and Place Locations
+C:\Repo\rgb_plugin_pcba\Project Outputs for RGB_Plugin_Board\RGB_Plugin_Board_UPLOAD_GERBERS_A2\Pick Place\RGB_Plugin_Board_CAM_OUTPUT_A2.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       21-04-22
+Time:       23:53
+Revision:   8ab632c638f9863657123bf63835efac96d5d86a
+Variant:    FULL_ASSEMBLY
+Units used: mil
+
+"Designator","Comment","Layer","Footprint","Center-X(mil)","Center-Y(mil)","Rotation","Description"
+"U2_DRD","EL357N(B)(TA)-G","TopLayer","SOP-4_P2.54","2765.000","-890.000","0","Optocoupler SOP-4, EL357N(B)(TA)-G, Everlight Electronics"
+"R2_DRD","10KO ±1%","TopLayer","0402_R","3128.268","-825.000","180","Chip resistor"
+"R1_DRD","1KO ±1%","TopLayer","0402_R","2648.268","-785.000","0","Chip resistor"
+"Q1_DRD","AO3400A N","TopLayer","SOT-23-3L","3035.000","-897.598","180","MOS(????)"
+"P3","691321300005","TopLayer","691321300005","3465.000","-480.000","270","Serie 321 - 3.81mm Vertical PCB Header WR-TBL, 5 pin"
+"R2_DRB","10KO ±1%","TopLayer","0402_R","3128.268","-350.000","180","Chip resistor"
+"P2","C9135","TopLayer","61200821621","2135.000","-800.000","180","Male Box Header WR-BHD, THT, Vertical, pitch 2.54 mm, 8 pins"
+"P1","C9135","TopLayer","61200821621","2135.000","-190.000","0","Male Box Header WR-BHD, THT, Vertical, pitch 2.54 mm, 8 pins"
+"U2_DRA","EL357N(B)(TA)-G","TopLayer","SOP-4_P2.54","2765.000","-650.000","0","Optocoupler SOP-4, EL357N(B)(TA)-G, Everlight Electronics"
+"U2_DRB","EL357N(B)(TA)-G","TopLayer","SOP-4_P2.54","2765.000","-405.000","0","Optocoupler SOP-4, EL357N(B)(TA)-G, Everlight Electronics"
+"U2_DRC","EL357N(B)(TA)-G","TopLayer","SOP-4_P2.54","2765.000","-155.000","0","Optocoupler SOP-4, EL357N(B)(TA)-G, Everlight Electronics"
+"R2_DRA","10KO ±1%","TopLayer","0402_R","3128.268","-600.000","180","Chip resistor"
+"R2_DRC","10KO ±1%","TopLayer","0402_R","3133.268","-110.000","180","Chip resistor"
+"R1_DRA","1KO ±1%","TopLayer","0402_R","2648.268","-545.000","0","Chip resistor"
+"R1_DRB","1KO ±1%","TopLayer","0402_R","2648.268","-300.000","0","Chip resistor"
+"R1_DRC","1KO ±1%","TopLayer","0402_R","2648.268","-50.000","0","Chip resistor"
+"Q1_DRA","AO3400A N","TopLayer","SOT-23-3L","3035.000","-675.000","180","MOS(????)"
+"Q1_DRB","AO3400A N","TopLayer","SOT-23-3L","3035.000","-427.736","180","MOS(????)"
+"Q1_DRC","AO3400A N","TopLayer","SOT-23-3L","3035.000","-180.000","180","MOS(????)"
+"P5","691321100002","TopLayer","691321100002","1376.495","-470.000","90","Serie 3211 - 3.50mm Vertical PCB Header WR-TBL, 2 pin"

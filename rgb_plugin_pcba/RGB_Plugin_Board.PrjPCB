@@ -47,7 +47,7 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=Layout\RGB_Plugin_Board.PcbDoc
+DocumentPath=..\Layout\RGB_Plugin_Board.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -64,7 +64,7 @@ GenerateClassCluster=0
 DocumentUniqueId=SFJTFAFO
 
 [Document2]
-DocumentPath=Schematic\LED_STRIP_DRIVER.SchDoc
+DocumentPath=..\Schematic\LED_STRIP_DRIVER.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -81,7 +81,7 @@ GenerateClassCluster=0
 DocumentUniqueId=OHMPDCZR
 
 [Document3]
-DocumentPath=Schematic\RGB_Plugin_Board.SchDoc
+DocumentPath=..\Schematic\RGB_Plugin_Board.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -98,7 +98,7 @@ GenerateClassCluster=0
 DocumentUniqueId=VNJFNLBI
 
 [Document4]
-DocumentPath=rgb_pcba.OutJob
+DocumentPath=..\rgb_pcba.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -115,7 +115,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document5]
-DocumentPath=Layout\RGB_Plugin_Board.PcbLib
+DocumentPath=..\Layout\RGB_Plugin_Board.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -132,83 +132,11 @@ GenerateClassCluster=0
 DocumentUniqueId=PNMXHPAH
 
 [ProjectVariant1]
-UniqueID=2FD7A5CA-1890-45CB-96AB-94166B7423FD
-Description=Debug
-AllowFabrication=0
-ParameterCount=0
-VariationCount=10
-Variation1=Designator=R23|UniqueId=\LMCFNFDG|Kind=1|AlternatePart= 
-Variation2=Designator=R25|UniqueId=\MHGWCPKI|Kind=1|AlternatePart= 
-Variation3=Designator=P4|UniqueId=\KFOZQFDD|Kind=1|AlternatePart= 
-Variation4=Designator=P7|UniqueId=\IEKLPVHB|Kind=1|AlternatePart= 
-Variation5=Designator=P10|UniqueId=\XYXUOPEL|Kind=1|AlternatePart= 
-Variation6=Designator=P5|UniqueId=\TZJAJLJO|Kind=1|AlternatePart= 
-Variation7=Designator=P1|UniqueId=\HYXGDHIO|Kind=1|AlternatePart= 
-Variation8=Designator=P2|UniqueId=\FVRIMNTF|Kind=1|AlternatePart= 
-Variation9=Designator=J1|UniqueId=\MLVGQBNW|Kind=1|AlternatePart= 
-Variation10=Designator=L1|UniqueId=\ENICPWKS|Kind=1|AlternatePart= 
-ParamVariationCount=0
-
-[ProjectVariant2]
 UniqueID=9DCABE77-EFE4-4C17-BE88-8CE971FF8048
-Description=Production
+Description=FULL_ASSEMBLY
 AllowFabrication=0
 ParameterCount=0
-VariationCount=19
-Variation1=Designator=P4|UniqueId=\KFOZQFDD|Kind=1|AlternatePart= 
-Variation2=Designator=Q2|UniqueId=\SQXCCMPH|Kind=1|AlternatePart= 
-Variation3=Designator=R23|UniqueId=\LMCFNFDG|Kind=1|AlternatePart= 
-Variation4=Designator=R25|UniqueId=\MHGWCPKI|Kind=1|AlternatePart= 
-Variation5=Designator=TL4|UniqueId=\VHGRGLOI|Kind=1|AlternatePart= 
-Variation6=Designator=TL6|UniqueId=\ACVEWTFD|Kind=1|AlternatePart= 
-Variation7=Designator=TL1|UniqueId=\FYPNLDSV|Kind=1|AlternatePart= 
-Variation8=Designator=TL8|UniqueId=\WEPWXLCG|Kind=1|AlternatePart= 
-Variation9=Designator=TL2|UniqueId=\ELIDLGXI|Kind=1|AlternatePart= 
-Variation10=Designator=TL3|UniqueId=\ZGXSUKEJ|Kind=1|AlternatePart= 
-Variation11=Designator=TL5|UniqueId=\IQQPPJVY|Kind=1|AlternatePart= 
-Variation12=Designator=TL7|UniqueId=\ILZJZRGD|Kind=1|AlternatePart= 
-Variation13=Designator=P7|UniqueId=\IEKLPVHB|Kind=1|AlternatePart= 
-Variation14=Designator=P10|UniqueId=\XYXUOPEL|Kind=1|AlternatePart= 
-Variation15=Designator=P5|UniqueId=\TZJAJLJO|Kind=0|AlternatePart= 
-Variation16=Designator=P1|UniqueId=\HYXGDHIO|Kind=0|AlternatePart= 
-Variation17=Designator=P2|UniqueId=\FVRIMNTF|Kind=0|AlternatePart= 
-Variation18=Designator=J1|UniqueId=\MLVGQBNW|Kind=1|AlternatePart= 
-Variation19=Designator=L1|UniqueId=\ENICPWKS|Kind=1|AlternatePart= 
-ParamVariationCount=0
-
-[ProjectVariant3]
-UniqueID=F9A76719-C206-4B8C-84E3-EF6DC862AADE
-Description=Reduced 3D model
-AllowFabrication=0
-ParameterCount=0
-VariationCount=27
-Variation1=Designator=C14|UniqueId=\XZMDVBWK|Kind=1|AlternatePart= 
-Variation2=Designator=R9|UniqueId=\CFKPAVCG|Kind=1|AlternatePart= 
-Variation3=Designator=C1|UniqueId=\BNSDDHNK|Kind=1|AlternatePart= 
-Variation4=Designator=R1|UniqueId=\XGXTZTKW|Kind=1|AlternatePart= 
-Variation5=Designator=R2|UniqueId=\EFEELYCG|Kind=1|AlternatePart= 
-Variation6=Designator=R22|UniqueId=\OCITEMVQ|Kind=1|AlternatePart= 
-Variation7=Designator=R19|UniqueId=\WKAKBDQP|Kind=1|AlternatePart= 
-Variation8=Designator=R18|UniqueId=\CVCVGDPX|Kind=1|AlternatePart= 
-Variation9=Designator=R11|UniqueId=\DTLEWOIU|Kind=1|AlternatePart= 
-Variation10=Designator=R10|UniqueId=\IYOAWAYD|Kind=1|AlternatePart= 
-Variation11=Designator=R13|UniqueId=\CJWWHNWR|Kind=1|AlternatePart= 
-Variation12=Designator=R14|UniqueId=\SPGCAXDU|Kind=1|AlternatePart= 
-Variation13=Designator=DR2|UniqueId=\FTGFIXCH|Kind=1|AlternatePart= 
-Variation14=Designator=R31|UniqueId=\KWUPNOPF|Kind=1|AlternatePart= 
-Variation15=Designator=R30|UniqueId=\PAVRBMWX|Kind=1|AlternatePart= 
-Variation16=Designator=R29|UniqueId=\CLUNPIVA|Kind=1|AlternatePart= 
-Variation17=Designator=R28|UniqueId=\GOGLMTJM|Kind=1|AlternatePart= 
-Variation18=Designator=R27|UniqueId=\EDZUICWE|Kind=1|AlternatePart= 
-Variation19=Designator=R6|UniqueId=\OOITOLKD|Kind=1|AlternatePart= 
-Variation20=Designator=R7|UniqueId=\LYVXNKEH|Kind=1|AlternatePart= 
-Variation21=Designator=R21|UniqueId=\ICOIYNMT|Kind=1|AlternatePart= 
-Variation22=Designator=R23|UniqueId=\LMCFNFDG|Kind=1|AlternatePart= 
-Variation23=Designator=R26|UniqueId=\GQHORYRG|Kind=1|AlternatePart= 
-Variation24=Designator=R12|UniqueId=\JAPECDSX|Kind=1|AlternatePart= 
-Variation25=Designator=C19|UniqueId=\SEYDVIUI|Kind=1|AlternatePart= 
-Variation26=Designator=C16|UniqueId=\GKHKPWBZ|Kind=1|AlternatePart= 
-Variation27=Designator=C5|UniqueId=\WLGSTTOI|Kind=1|AlternatePart= 
+VariationCount=0
 ParamVariationCount=0
 
 [SearchPath1]
